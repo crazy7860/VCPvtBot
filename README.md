@@ -62,7 +62,7 @@ Please fork this repository don't import code
 Made with Python3
 (C) @QueenArzoo
 Copyright permission under GNU General Public License v3.0
-License -> https://github.com/@QueenArzoo/VCPvtBot/blob/main/LICENSE
+License -> https://github.com/crazyboy/VCPvtBot/blob/main/LICENSE
 ```
 </details>
 
